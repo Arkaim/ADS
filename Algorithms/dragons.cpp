@@ -3,7 +3,7 @@
 
 
 using namespace std;
-
+int zdarova;
 struct dragon {
 	int s;
 	int y;
