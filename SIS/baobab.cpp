@@ -21,6 +21,7 @@ void dfs(int val, int par){
         }
     }
 }
+
 int main(){
     cin >> n;
 

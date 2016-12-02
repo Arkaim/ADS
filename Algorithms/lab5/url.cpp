@@ -33,8 +33,8 @@ bool KMPcheck(string T, string S){
         if(k==-1){
             i++;
             k=0;
-        } 
-        
+        }
+
         else if(S[i]==T[k]){
             i++;
             k++;
@@ -64,4 +64,3 @@ int main(){
 	}
 
 }
-
